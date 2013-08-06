@@ -1,4 +1,8 @@
-tkinter-text-editor
+Just another Text Editor
 ===================
 
-Just another text editor (Nothing else) 
+I am doing it just to learn python (the cool way). 
+
+Well, you can fork if you want to learn how notepad could be coded on python! 
+
+
